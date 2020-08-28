@@ -1,6 +1,6 @@
 import algoliasearchHelper, { AlgoliaSearchHelper } from 'algoliasearch-helper';
 import EventEmitter from 'events';
-import index, { Index, isIndexWidget } from '../widgets/index/index';
+import index, { Index, isIndexWidget } from 'instantsearch.js/es/widgets/index';
 import version from './version';
 import createHelpers from './createHelpers';
 import {

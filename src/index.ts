@@ -1,3 +1,3 @@
-import instantsearch from './lib/main';
+import singleIndexQStateMapping from './lib/stateMappings/singleIndexQ';
 
-export default instantsearch;
+export default singleIndexQStateMapping;
